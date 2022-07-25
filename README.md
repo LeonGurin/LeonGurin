@@ -4,7 +4,7 @@ I hope you feel welcomed and overjoyed at the sight of this amazing page and its
 
 ![gif](https://media1.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif?cid=ecf05e47czi5vgb8r6y9xqcbf7p5tj5ijjs3nlu7n3z1wqhz&rid=giphy.gif&ct=g "spiderman")
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" align="left" />
+<img src="https://media1.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif?cid=ecf05e47czi5vgb8r6y9xqcbf7p5tj5ijjs3nlu7n3z1wqhz&rid=giphy.gif&ct=g" align="left" />
 
 ## About Me
  - **Who am I?** My name is Leon and I'm an 18 🧓
