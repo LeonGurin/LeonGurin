@@ -2,9 +2,7 @@
 
 I hope you feel welcomed and overjoyed at the sight of this amazing page and its mediocre Repos.
 
-![img0](https://media.makeameme.org/created/ok-boss-man.jpg "okbossman.jpeg")
-
-<iframe src="https://giphy.com/embed/QYkX9IMHthYn0Y3pcG" width="480" height="351" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-spiderman-QYkX9IMHthYn0Y3pcG">via GIPHY</a></p>
+![gif](https://media1.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif?cid=ecf05e47czi5vgb8r6y9xqcbf7p5tj5ijjs3nlu7n3z1wqhz&rid=giphy.gif&ct=g "spiderman")
 
 ## About Me
  - **Who am I?** My name is Leon and I'm an 18 🧓
