@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hello Welcome to my Github page! 👋🙋‍♂️
+
+I hope you feel welcomed and overjoyed at the sight of this amazing page and its mediocre Repos.
+
+
+
 
 <!--
-**LeonGurin/LeonGurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
