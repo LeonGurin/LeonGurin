@@ -32,7 +32,7 @@ I started being interested in cybersecurity around May of 2022 and learned basic
  * [x] Crypto CTF 2022
  * [x] ImaginaryCTF 2022
  * [x] BDSec CTF 2022
- * [ ] [Hacky Holidays - Unlock the City](https://github.com/LeonGurin/My-CTF-challenge-Writeups/tree/main/Hacky%20Holidays%20-%20Unlock%20the%20City)
+ * [ ] [Hacky Holidays - Unlock the City](https://github.com/LeonGurin/Hacky-Holidays-Unlock-the-City-Writeup)
 ___
 ## Big Thanks If You Got Here! 
 
