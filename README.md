@@ -4,6 +4,8 @@ I hope you feel welcomed and overjoyed at the sight of this amazing page and its
 
 ![img0](https://media.makeameme.org/created/ok-boss-man.jpg "okbossman.jpeg")
 
+<iframe src="https://giphy.com/embed/QYkX9IMHthYn0Y3pcG" width="480" height="351" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-spiderman-QYkX9IMHthYn0Y3pcG">via GIPHY</a></p>
+
 ## About Me
  - **Who am I?** My name is Leon and I'm an 18 🧓
  - **Where am I studying?** Currently studying CS in university of Haifa in Israel 🤓
