@@ -2,7 +2,9 @@
 
 I hope you feel welcomed and overjoyed at the sight of this amazing page and its mediocre Repos.
 
-<img src="https://media1.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif?cid=ecf05e47czi5vgb8r6y9xqcbf7p5tj5ijjs3nlu7n3z1wqhz&rid=giphy.gif&ct=g" align="center" />
+<p align="center">
+  <img src="https://media1.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif?cid=ecf05e47czi5vgb8r6y9xqcbf7p5tj5ijjs3nlu7n3z1wqhz&rid=giphy.gif&ct=g" />
+</p>
 
 
 ## About Me
