@@ -1,10 +1,8 @@
-### Hello Welcome to my Github page! 👋🙋‍♂️
+# Hello Welcome to my Github page! 👋🙋‍♂️
 
 I hope you feel welcomed and overjoyed at the sight of this amazing page and its mediocre Repos.
 
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/ProBItExchange-dog-hello-hi-XO8RMtRaK73isIt0i2" width="100"/>
-</div>
+![img0](https://media.makeameme.org/created/ok-boss-man.jpg "okbossman.jpeg")
 
 ## About Me
  - **Who am I?** My name is Leon and I'm an 18 🧓
@@ -13,9 +11,10 @@ I hope you feel welcomed and overjoyed at the sight of this amazing page and its
    * I like trying out new things and learning about different inconsistent topics ✍
    * I enjoy cybersecurity in particular, I'm an average CTF enjoyer 🤖
  - **Fun fact** I don't know how to ride a bike 🚲
+
  **contact info:**
- * My Email: _leon9gur@gmail.com_ 📧
- * My Discord: _SpOOky_L#4203_  ```python Ord(💿)```
+ - My Email: _leon9gur@gmail.com_ 📧
+ - My Discord: _SpOOky_L#4203_  `Ord(💿)`
 
 ## Join Me in CTF
 
