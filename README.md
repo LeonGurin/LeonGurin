@@ -20,7 +20,7 @@ I hope you feel welcomed and overjoyed at the sight of this amazing page and its
  - My Discord: _SpOOky_L#4203_  `Ord(💿)`
 
 ## Join Me in CTF
-![CTFtime_logo](https://play-lh.googleusercontent.com/uiZnC5tIBpejW942OXct4smbaHmSowdT5tLSi28Oeb2_pMLPCL-VJqdGIH6ZO3A951M=w480-h960-rw)
+<img src="https://play-lh.googleusercontent.com/uiZnC5tIBpejW942OXct4smbaHmSowdT5tLSi28Oeb2_pMLPCL-VJqdGIH6ZO3A951M=w480-h960-rw" align='right' />
 
 
 I started being interested in cybersecurity around May of 2022 and learned basic knowledge doing [picoCTF](https://picoctf.org/ "picoCTF.org") challenges and learning from [OverTheWire](https://overthewire.org/wargames/ "OverTheWire/wargames") wargames too.
