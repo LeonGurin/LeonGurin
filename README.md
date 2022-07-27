@@ -22,7 +22,7 @@ I hope you feel welcomed and overjoyed at the sight of this amazing page and its
 ## Join Me in CTF <img src="https://play-lh.googleusercontent.com/uiZnC5tIBpejW942OXct4smbaHmSowdT5tLSi28Oeb2_pMLPCL-VJqdGIH6ZO3A951M=w480-h960-rw" align='right' width=100 height=100 />
 
 
-I started being interested in cybersecurity around May of 2022 and learned basic knowledge doing [picoCTF](https://picoctf.org/ "picoCTF.org") challenges and learning from [OverTheWire](https://overthewire.org/wargames/ "OverTheWire/wargames") wargames too.
+I started being interested in cybersecurity around May of 2022 and gained basic cybersecurity knowledge by doing [picoCTF](https://picoctf.org/ "picoCTF.org") and  [OverTheWire](https://overthewire.org/wargames/ "OverTheWire/wargames") wargames challenges. I've been participating in different CTFs since June just having fun learning. 
  
  You can find my CTFtime [profile](https://ctftime.org/user/138721 "CTFtime.org/profile") and maybe join my team **"Sp00ky__"** with this [link](https://ctftime.org/team/193765/#.YtqlZr7R8qo.link "Team link").
 
