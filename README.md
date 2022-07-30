@@ -34,6 +34,8 @@ I started being interested in cybersecurity around May of 2022 and gained basic 
  * [x] BDSec CTF 2022
  * [x] [Hacky Holidays - Unlock the City](https://github.com/LeonGurin/Hacky-Holidays-Unlock-the-City-Writeup)
  * [ ] TFC CTF 2022 
+ * [ ] UIUCTF 2022
+ * [ ] [UACTF 2022](https://github.com/LeonGurin/UACTF-2022-Writeup)
 ___
 ## Big Thanks If You Got Here! 
 
