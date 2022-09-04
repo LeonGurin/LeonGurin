@@ -39,6 +39,7 @@ I started being interested in cybersecurity around May of 2022 and gained basic 
  * [x] [corCTF 2022](https://github.com/LeonGurin/corCTF-2022)
  * [x] [T3N4CIOUS - Escape](https://github.com/LeonGurin/T3N4CI0US-Escape-2022)
  * [x] [SHELL CTF 2022](https://github.com/LeonGurin/Shell-CTF-2022)
+ * [x] [Inter-Galactic-CTF](https://github.com/LeonGurin/Inter-Galactic-CTF)
 ___
 ## Big Thanks If You Got Here! 
 
