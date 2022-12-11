@@ -24,7 +24,7 @@ I hope you feel welcomed and overjoyed at the sight of this amazing page and its
 
 I started being interested in cybersecurity around May of 2022 and gained basic cybersecurity knowledge by doing [picoCTF](https://picoctf.org/ "picoCTF.org") and  [OverTheWire](https://overthewire.org/wargames/ "OverTheWire/wargames") wargames challenges. I've been participating in different CTFs since June just having fun learning. 
  
- You can find my CTFtime [profile](https://ctftime.org/user/138721 "CTFtime.org/profile") and maybe join my team **"Sp00ky__"** with this [link](https://ctftime.org/team/193765/#.YtqlZr7R8qo.link "Team link").
+ You can find my CTFtime [profile](https://ctftime.org/user/138721 "CTFtime.org/profile")!
 
 ## Competitions
  As of today I have completed the following CTFs:
