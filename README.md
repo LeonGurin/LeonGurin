@@ -32,18 +32,18 @@ I started being interested in cybersecurity around May of 2022 and gained basic 
  * [x] Crypto CTF 2022
  * [x] ImaginaryCTF 2022
  * [x] BDSec CTF 2022
- * [x] [Hacky Holidays - Unlock the City](https://github.com/LeonGurin/Hacky-Holidays-Unlock-the-City-Writeup)
- * [x] [TFC CTF 2022](https://github.com/LeonGurin/TFC-CTF-2022-Writeup) 
- * [x] [UIUCTF 2022](https://github.com/LeonGurin/UIUCTF-2022-Writeup)
- * [x] [UACTF 2022](https://github.com/LeonGurin/UACTF-2022-Writeup)
- * [x] [corCTF 2022](https://github.com/LeonGurin/corCTF-2022)
- * [x] [T3N4CIOUS - Escape](https://github.com/LeonGurin/T3N4CI0US-Escape-2022)
- * [x] [SHELL CTF 2022](https://github.com/LeonGurin/Shell-CTF-2022)
- * [x] [Inter-Galactic-CTF](https://github.com/LeonGurin/Inter-Galactic-CTF)
- * [x] [CSAW-CTF-Qualification-Round-2022](https://github.com/LeonGurin/CSAW-CTF-Qualification-Round-2022)
- * [x] [BuckeyeCTF-2022](https://github.com/LeonGurin/BuckeyeCTF-2022)
- * [x] [SquareCTF-2022](https://github.com/LeonGurin/SquareCTF-2022)
- * [x] [Hackappatoi](https://github.com/LeonGurin/Hackappatoi)
+ * [x] [Hacky Holidays - Unlock the City](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Hacky%20Holidays%20-%20Unlock%20The%20City)
+ * [x] [TFC CTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/TFC-CTF-2022-Writeup) 
+ * [x] [UIUCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UIUCTF-2022-Writeup)
+ * [x] [UACTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UACTF-2022-Writeup)
+ * [x] [corCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/corCTF-2022)
+ * [x] [T3N4CIOUS - Escape](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/T3N4CI0US-Escape-2022)
+ * [x] [SHELL CTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Shell-CTF-2022)
+ * [x] [Inter-Galactic-CTF](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Inter-Galactic-CTF)
+ * [x] [CSAW-CTF-Qualification-Round-2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/CSAW-CTF-Qualification-Round-2022)
+ * [x] [BuckeyeCTF-2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/BuckeyeCTF-2022)
+ * [x] [SquareCTF-2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/SquareCTF-2022)
+ * [x] [Hackappatoi](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Hackappatoi)
 ___
 ## Big Thanks If You Got Here! 
 
