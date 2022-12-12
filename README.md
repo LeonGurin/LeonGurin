@@ -35,7 +35,7 @@ I started being interested in cybersecurity around May of 2022 and gained basic 
  * [x] [Hacky Holidays - Unlock the City](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Hacky%20Holidays%20-%20Unlock%20The%20City)
  * [x] [TFC CTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/TFC%20CTF%202022) 
  * [x] [UIUCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UIUCTF%202022)
- * [x] [UACTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UACTF%202022%20Writeup)
+ * [x] [UACTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UACTF%202022)
  * [x] [corCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/corCTF%202022)
  * [x] [T3N4CIOUS - Escape](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/T3N4CI0US%20Escape%202022)
  * [x] [SHELL CTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Shell%20CTF%202022)
