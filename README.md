@@ -8,7 +8,7 @@ I hope you feel welcomed and overjoyed at the sight of this amazing page and its
 
 
 ## About Me
- - **Who am I?** My name is Leon and I'm 18 🧓
+ - **Who am I?** My name is Leon and I'm 19 🧓
  - **Where am I studying?** Currently studying CS in university of Haifa in Israel 🤓
  - **What are my hobbies?** 
    * I like trying out new things and learning about different inconsistent topics ✍
