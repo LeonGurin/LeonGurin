@@ -41,7 +41,7 @@ I started being interested in cybersecurity around May of 2022 and gained basic 
  * [x] [SquareCTF-2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/SquareCTF%202022)
  * [x] [Hackappatoi](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Hackappatoi)
  * [x] [LA CTF 2023](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/LA%20CTF%202023)
- * [x] [incognito 4.0](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Incognito%204.0) 
+ * [x] [Incognito 4.0](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Incognito%204.0) 
 ___
 ## Big Thanks If You Got Here! 
 
