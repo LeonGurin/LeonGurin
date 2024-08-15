@@ -24,7 +24,7 @@ I hope you feel welcomed and overjoyed at the sight of this amazing page and its
 
 I started being interested in cybersecurity around May of 2022 and gained basic cybersecurity knowledge by doing [picoCTF](https://picoctf.org/ "picoCTF.org") and  [OverTheWire](https://overthewire.org/wargames/ "OverTheWire/wargames") wargames challenges. I've been participating in different CTFs since June just having fun learning. 
  
- You can find my CTFtime [profile](https://ctftime.org/user/138721 "CTFtime.org/profile")!
+You can find my CTFtime [profile](https://ctftime.org/user/138721 "CTFtime.org/profile")!
 
 ## Competitions
  I participated in many different CTF competitions organized on ctfTime but here is a list of the competitions I made a writeup for:
@@ -44,6 +44,7 @@ I started being interested in cybersecurity around May of 2022 and gained basic 
  * [x] [Incognito 4.0](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Incognito%204.0) 
  * [x] [picoCTF 2023](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/picoCTF%202023)
  * [x] [Bucket CTF 2023](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Bucket%20CTF%202023)
+ * [x] [Lexington Informatics Tournament CTF 2024](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/LITCTF%202024)
 ___
 ## Big Thanks If You Got Here! 
 
