@@ -27,7 +27,7 @@ I started being interested in cybersecurity around May of 2022 and gained basic 
 You can find my CTFtime [profile](https://ctftime.org/user/138721 "CTFtime.org/profile")!
 
 ## Competitions
- I participated in many different CTF competitions organized on ctfTime but here is a list of the competitions I made a writeup for:
+ I participated in many different CTF competitions published on CTFtime.org but here is a list of the competitions I made a writeup for:
  * [x] [Hacky Holidays - Unlock the City](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/Hacky%20Holidays%20-%20Unlock%20The%20City)
  * [x] [TFC CTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/TFC%20CTF%202022) 
  * [x] [UIUCTF 2022](https://github.com/LeonGurin/My-CTF-Writeups/tree/main/UIUCTF%202022)
