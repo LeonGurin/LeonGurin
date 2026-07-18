@@ -7,16 +7,15 @@
 ## About Me
  - **Who am I?**
    * Leon, 22 years old 🧓
-   * Bachlors in Computer Science
-   * Network Security Engineer 
+   * Bachlors in Computer Science 🎓
+   * Network Security Engineer 💻
  - **Fun fact** I don't know how to ride a bike 🚲
 
-## Cybersecurity Notes
- * [pentesting-writeups](https://github.com/LeonGurin/pentesting-writeups)
+## Repos
+ * Cybersecurity Obsidian Notebook - [pentesting-writeups](https://github.com/LeonGurin/pentesting-writeups)
+ * CTF Writeups - [My-CTF-Writeups](https://github.com/LeonGurin/My-CTF-Writeups)
+ * Homework Assignement & other
 
-## Past CTF Writeups
- Writeups:
- * [My-CTF-Writeups](https://github.com/LeonGurin/My-CTF-Writeups)
 ___
 
 <!--
